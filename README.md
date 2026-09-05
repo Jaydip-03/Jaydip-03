@@ -14,7 +14,7 @@
 <a href="https://jayydev.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="mailto:jaydipkanani140@gmail.com">
+<a href="mailto:jaydesale003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jaydip-desale-760770234/" target="_blank">
