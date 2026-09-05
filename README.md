@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaydip%20Kanani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Next.js%20%E2%80%A2%20Earth-1610&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaydip%20Desale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Next.js%20%E2%80%A2%20Earth-1610&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- TYPING INTRO -->
 <a href="https://jayydev.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Jaydip;Full-Stack+Engineer+from+Mumbai%2C+India;Spring+Boot+%7C+Next.js+%7C+PostgreSQL;0.4ms+query+optimization+enthusiast+%E2%9A%A1;Anyone+can+wear+the+mask+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Jaydip;Full-Stack+Engineer+from+Pune%2C+India;Spring+Boot+%7C+Next.js+%7C+PostgreSQL;0.4ms+query+optimization+enthusiast+%E2%9A%A1;Anyone+can+wear+the+mask+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -31,7 +31,7 @@
 ```ts
 const jaydip = {
   role      : "Full-Stack Software Engineer",
-  location  : "Mumbai, India 📍",
+  location  : "Pune, India 📍",
   stack     : ["Spring Boot", "Next.js", "PostgreSQL", "React", "Docker"],
   obsession : "0.4ms query latency via composite B-Tree indexes",
   alter_ego : "Spider-Jaydip // Earth-1610 🕷️",
